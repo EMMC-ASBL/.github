@@ -12,7 +12,7 @@ repository on this GitHub site.
 
 The European Materials Modelling Council (EMMC)
 -----------------------------------------------
-The non-profit Association, [EMMC-ASBL] was created in 2019 to
+The non-profit Association, [EMMC-ASBL], was created in 2019 to
 ensure continuity, growth and sustainability of EMMC activities for
 all stakeholders including modellers, materials data scientists,
 software owners, translators and manufacturers in Europe.  The EMMC
